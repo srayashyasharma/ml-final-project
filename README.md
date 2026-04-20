@@ -14,5 +14,3 @@ Dataset: NIH Chest X-Ray14 (112,120 images, 14 disease labels)
 - evaluate.py - Full evaluation pipeline
 - results/ - All result plots
 
-## How to Run
-Open on Kaggle with NIH Chest X-rays dataset. Run all cells.
