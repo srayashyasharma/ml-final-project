@@ -1,6 +1,6 @@
 """
 VAE Training Script
-CS 6840/4840 - Annapurna Srayashya Iruku (U01150990)
+
 
 Usage:
     python train_vae.py \
