@@ -1,6 +1,6 @@
 """
 MLP Classification Head on VAE Latent Space
-CS 6840/4840 - Annapurna Srayashya Iruku (U01150990)
+
 """
 
 import torch
