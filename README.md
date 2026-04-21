@@ -1,5 +1,5 @@
 # Lung X-Ray Anomaly Detection Using VAE
-CS 6840/4840 - Intro to Machine Learning
+
 Author: Annapurna Srayashya Iruku (U01150990)
 
 ## Project
