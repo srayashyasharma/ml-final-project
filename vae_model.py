@@ -1,6 +1,6 @@
 """
 VAE Model - Clean rewrite, no residual blocks (eliminates inplace bug entirely)
-CS 6840/4840 - Annapurna Srayashya Iruku (U01150990)
+Annapurna Srayashya Iruku (U01150990)
 """
 
 import torch
